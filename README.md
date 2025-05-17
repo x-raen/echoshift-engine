@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x200?text=EchoShift+Engine" alt="EchoShift Logo" width="500"/>
+  <img src="echoshift_logo.png" alt="EchoShift Logo" width="500"/>
 </p>
 
 ## 📋 Table of Contents
